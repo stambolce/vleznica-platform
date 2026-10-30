@@ -4,7 +4,7 @@
 
 **Поврзи ги настаните со нивната публика.**
 
-[English](README.md) · [Македонски](README.mk.md)
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
 <img src="assets/product-hero.svg" width="100%" alt="Vleznica — Настани и билети; концептуална визуелизација" />
 
