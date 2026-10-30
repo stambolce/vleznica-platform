@@ -2,11 +2,11 @@
 
 # Vleznica
 
-**Etkinlikleri kitleleriyle buluşturun.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="Vleznica — Events & ticketing; kavramsal çizim" />
+<img src="assets/product-hero.svg" width="100%" alt="Vleznica — ürün görsel sunumu" />
+
+**Etkinlikleri kitleleriyle buluşturun.**
 
 [![Website](https://img.shields.io/badge/vleznica.mk-Official_Website-1476e8?style=for-the-badge)](https://vleznica.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://vleznica.mk/)
@@ -69,7 +69,7 @@ Organizatör bilgilerini okuyun ve süreci platformun başvuru yolundan başlat�
 | Ayrıntı | Değer |
 |---|---|
 | Web sitesi | [vleznica.mk](https://vleznica.mk/) |
-| Kategori | Events & ticketing |
+| Kategori | Etkinlik ve biletleme |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy iletişimi | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Sunum kaynakları: [1](https://vleznica.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
